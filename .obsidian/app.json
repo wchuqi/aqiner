@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "./images",
+  "promptDelete": true,
+  "fileSortOrder": "alphabetical",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "communityPluginSortOrder": "download",
+  "alwaysUpdateLinks": true
+}

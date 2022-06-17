@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "7a2ceaca95acd462",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c4dc406183e937",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "工具/win11.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71e6e375b7bef4ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab7427fca38c49be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa947898b174ceeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1052db4f6643fd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e245c15669f86dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1020dd01b310cd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26379bd1fd4543fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工具/win11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f2a01eb41a1ffe18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工具/win11.md"
+              }
+            }
+          },
+          {
+            "id": "9caf2490e56078ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "工具/win11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "27c4dc406183e937",
+  "lastOpenFiles": [
+    "工具/win11.md",
+    "java/javaprimary.md",
+    "java/javaconcurrency.md",
+    "java/idetools.md",
+    "java/buildtools.md",
+    "java/AAA-java.md",
+    "images/Python学习知识图谱.png",
+    "alghorithum/DFS_BFS/DFS_回溯算法.md",
+    "alghorithum/DFS_BFS/BFS.md",
+    "alghorithum/双指针/滑动窗口.md"
+  ]
+}
