@@ -1,7 +1,7 @@
 [
   "cm-editor-syntax-highlight-obsidian",
   "table-editor-obsidian",
-  "obsidian-outliner",
   "obsidian-git",
-  "obsidian-tabs"
+  "obsidian-tabs",
+  "obsidian-minimal-settings"
 ]

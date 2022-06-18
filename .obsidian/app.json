@@ -3,7 +3,7 @@
   "livePreview": true,
   "showLineNumber": true,
   "attachmentFolderPath": "./images",
-  "promptDelete": true,
+  "promptDelete": false,
   "fileSortOrder": "alphabetical",
   "pdfExportSettings": {
     "pageSize": "Letter",
